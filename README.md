@@ -9,7 +9,8 @@
 它可以作为快速搭建 AI 智能体聊天应用的脚手架，支持 RAG（检索增强生成）知识库问答、多智能体协作、流式输出等能力。
 
 ## 项目演示
-![项目演示](https://github.com/user-attachments/assets/c81856de-8d84-4484-a21c-0117aae64404)
+<video autoplay muted loop controls width="100%" src="https://github.com/user-attachments/assets/c81856de-8d84-4484-a21c-0117aae64404">
+</video>
 
 多智能体聊天：
 
